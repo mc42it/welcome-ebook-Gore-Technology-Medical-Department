@@ -1,5 +1,5 @@
 # welcome-ebook-Gore-Technology-Medical-Department
-A Father getting to know his son's new profession simply because he loves all things learning and medical technlogies
+A Father getting to know his son's new profession simply because he loves all things learning and medical technologies.
 
 # Welcome Aboard Jake to the Gore Technology Medical Department
 
@@ -112,3 +112,7 @@ A Father getting to know his son's new profession simply because he loves all th
 
 Welcome to the team, Jake! We're thrilled to have you join the Gore Technology Medical Department. This eBook is designed to help you get acquainted with our company, its mission, and the exciting projects you'll be working on. We're confident that your skills and enthusiasm will be a great addition to our team. Here's to a fantastic start and a successful journey with Gore Technology!
 
+## Sources
+- [Gore Medical STEM Educational Programs](https://www.goremedical.com)
+- [BASIS Charter Schools](https://www.basised.com/flagstaff)
+- [Arizona Community Foundation of Flagstaff](https://www.azfoundation.org)
